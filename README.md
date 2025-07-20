@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Seunghyun</h1>
 <h3 align="center">A web developer loves problem-solving.</h3>
 
